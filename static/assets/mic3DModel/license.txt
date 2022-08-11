@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mic
+* source:	https://sketchfab.com/3d-models/mic-f0fd6437ff82485fbe081b179d182e17
+* author:	alex_gusev (https://sketchfab.com/alex_gusev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mic" (https://sketchfab.com/3d-models/mic-f0fd6437ff82485fbe081b179d182e17) by alex_gusev (https://sketchfab.com/alex_gusev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Classic guitar
+* source:	https://sketchfab.com/3d-models/classic-guitar-f1c018c806044337802f08b3809a82a6
+* author:	Oleksandr Zymohliad (https://sketchfab.com/oleksandr_zymohliad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Classic guitar" (https://sketchfab.com/3d-models/classic-guitar-f1c018c806044337802f08b3809a82a6) by Oleksandr Zymohliad (https://sketchfab.com/oleksandr_zymohliad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
