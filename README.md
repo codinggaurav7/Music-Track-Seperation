@@ -18,8 +18,7 @@ Please make sure you have a printed version of the markers given in the asset fo
 
 ## PREVIEW: 
 
-Please click on the following link for a the demo of the project: 
-https://youtu.be/tjaWRLdWIrA
+
 
 <img width="826" alt="image" src="https://user-images.githubusercontent.com/72824619/185491894-45e5cde9-62fc-42c4-ae28-009b43c15bac.png">
 
